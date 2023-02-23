@@ -2,6 +2,5 @@
 using System;
 
 Console.WriteLine("Salut, monde !");
-Console.WriteLine("Hello again!");
-Console.WriteLine("Hello again!");
+Console.WriteLine("Hello la branche dev!");
 
